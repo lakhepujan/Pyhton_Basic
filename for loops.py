@@ -4,5 +4,5 @@
 #for x in range(1,11):   prints value of x from 1 to 10
 #    print(x)
 
-for x in reversed(range(1,11)): 
-    print(x)
+#for x in reversed(range(1,11)): prints reversed value of x 
+#    print(x)
