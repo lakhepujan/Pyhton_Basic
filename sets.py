@@ -7,6 +7,7 @@ fruits= {"apple", "bananas","orange","coconut"}
 
 #fruits.add("pineapple")        add elements in the set
 #fruits.remove("apple")         remove element from the set
-fruits.pop()
+# fruits.pop()      randomly removes a element form the set
+#fruits.clear()     clears the set
 
 print(fruits)
