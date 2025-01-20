@@ -1,8 +1,11 @@
-#for loops: executes block of code over fixed number of times
-#   can iterate over a range, string, sequence
+fruits= ("apple", "bananas","orange","coconut")
+#print(dir(fruits)) provides attributes that can be used in list,set and tuple
+#print(help(fruits))  provides details of the attributes
+#print(len(fruits)) prints len of the collection variable
+#print("pineapple" in fruits)   checks whether the given element is in the list or not
 
-#for x in range(1,11):   prints value of x from 1 to 10
-#    print(x)
+print(fruits.index("apple"))
+print(fruits.count("apple"))
 
-for x in reversed(range(1,11)): 
-    print(x)
+
+print(fruits)

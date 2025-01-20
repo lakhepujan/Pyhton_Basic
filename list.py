@@ -6,8 +6,8 @@
 
 fruits = ["apple", "banana", "grapes", "orange"]
 
-#print(dir(fruits)) provides function that can be used in list,set and tuple
-#print(help(fruits))  provides details of the function
+#print(dir(fruits)) provides attributes that can be used in list,set and tuple
+#print(help(fruits))  provides details of the attributes
 #print(len(fruits)) prints len of the collection variable
 
 # fruits[0]= "pineapple"        adds pineapple to index 0
@@ -18,7 +18,7 @@ fruits = ["apple", "banana", "grapes", "orange"]
 #fruits.reverse()       reverse the order of the list
 # fruits.clear()        clears the list
 #print(fruits.index("apple")) provides index of the corresponding elements
-print(fruits.count("apple"))
+#print(fruits.count("apple"))   counts the number of elements in the list
 
 
 #for fruit in fruits:
