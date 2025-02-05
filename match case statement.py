@@ -8,4 +8,4 @@ def is_weekend(day):
             return False
 
 
-print(is_weekend("Tuesday"))
+print(is_weekend("Sunday"))
