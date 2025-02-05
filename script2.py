@@ -1,5 +1,6 @@
-#from script1 import *
-
+from script1 import *
+# hi=0
+# help=0
 def favourite_drink(drink):
     print(f"Your favourite drink is {drink}")
 
