@@ -1,4 +1,6 @@
 from script2 import *
+# hi=0
+# help=0
 def favourite_food(food):
     print(f"Your favourite food if {food}")
 
