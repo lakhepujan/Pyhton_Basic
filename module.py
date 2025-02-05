@@ -1,5 +1,6 @@
 import example
-
+# hi=0
+# hi=0
 sq=example.square(2)
 print(sq)
 cube=example.cube(4)
